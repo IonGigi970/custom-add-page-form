@@ -1,0 +1,20 @@
+.capf-form .capf-form * {
+	box-sizing: border-box;
+}
+.capf-form label {
+	display: block;
+	width: 100%;
+	margin-bottom: 5px;
+}
+.capf-form input, .capf-form textarea {
+	display: block;
+	width: 100%;
+	padding: 5px 10px;
+	margin-bottom: 10px;
+}
+.capf-form .notification-success {
+	color: green;
+}
+.capf-form .notification-error {
+	color: red;
+}
